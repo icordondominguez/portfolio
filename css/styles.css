@@ -11121,3 +11121,19 @@ html {
   color: #a13dea;
   font-size: 1em;
 } */
+
+.icon-contact {
+  display: flex;
+  height: 5rem;
+  width: 5rem;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  background-color: #2196F3;
+  color: #fff;
+  border-radius: 100%;
+}
+
+.text-muted {
+  color: #6c757d !important;
+}
